@@ -3,7 +3,7 @@ import { Analytics } from '@vercel/analytics/react';
 import Nav from './nav';
 import { Suspense } from 'react';
 
-/* Developed by Emmanuel Martinez */
+/* Developed by Emmanuel Martinez for ESAT */
 
 export const metadata = {
   title: 'ESAT Learnworlds API Admin Dashboard',

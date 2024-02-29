@@ -4,19 +4,13 @@
   <img alt="Shows all of the tools in the stack for this template, also listed in the README file." src="https://user-images.githubusercontent.com/9113740/201498152-b171abb8-9225-487a-821c-6ff49ee48579.png">
 </picture>
 
-<div align="center"><strong>Next.js 14 Admin Dashboard Template</strong></div>
+<div align="center"><strong>Next.js 14 ESAT Dashboard Template</strong></div>
 <div align="center">Built with the Next.js App Router</div>
 <br />
-<div align="center">
-<a href="http://admin-dash-template.vercel.sh/">Demo</a>
-<span> · </span>
-<a href="https://vercel.com/templates/next.js/admin-dashboard-tailwind-planetscale-react-nextjs">Clone & Deploy</a>
-<span>
-</div>
 
 ## Overview
 
-This is a starter template using the following stack:
+This is a a webapp using the following stack:
 
 - Framework - [Next.js 14](https://nextjs.org/14)
 - Language - [TypeScript](https://www.typescriptlang.org)
@@ -29,11 +23,9 @@ This is a starter template using the following stack:
 - Linting - [ESLint](https://eslint.org)
 - Formatting - [Prettier](https://prettier.io)
 
-This template uses the new Next.js App Router. This includes support for enhanced layouts, colocation of components, tests, and styles, component-level data fetching, and more.
+This webapp uses the new Next.js App Router. This includes support for enhanced layouts, colocation of components, tests, and styles, component-level data fetching, and more.
 
 ## Getting Started
-
-During the deployment, Vercel will prompt you to create a new Postgres database. This will add the necessary environment variables to your project.
 
 Inside the Vercel Postgres dashboard, create a table based on the schema defined in this repository.
 
